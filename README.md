@@ -1,2 +1,1 @@
-# Taller_03-Python
-Taller 3 del Curso Progra Avanzada
+Descripcion General de funcionamiento de mi proyecto.
