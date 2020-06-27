@@ -1,4 +1,4 @@
-from Model import *
+from Model import DatosOperador
 
 class OperadorView:
 

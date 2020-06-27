@@ -15,6 +15,18 @@ class DatosEstacion:
         self.nombreEst=nombreEst
         print("Nombre SubEstacion: {}".format(self.nombreEst))
 
+class Ciudades:
+
+    ciudad_1 = (111,'Occidental')
+    ciudad_2 = (222, 'Oriental')
+    ciudad_3 = (333, 'Guarco')
+         
+    ciudades_dict = {
+        1: ciudad_1,
+        2: ciudad_2,
+        3: ciudad_3
+    }
+
 
 
 
